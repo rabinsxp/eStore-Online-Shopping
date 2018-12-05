@@ -22,9 +22,9 @@ require 'system/if_on_cart.php';
         <div class="content">
           <div class="content_box">
             <div class="men">
-              <h1 id="cameras">CAMERAS
+              <h1>CAMERAS
               </h1>
-              <div class="span_2">
+              <div  id="cameras" class="span_2">
                 <div class="col_1_of_single1 span_1_of_single1">
                   <img src="img/5.jpg" alt="Cannon" class="img-responsive"/>
                   <h3>Cannon EOS
@@ -103,9 +103,9 @@ echo '<a href="cart.php" class=btn btn-block btn-success disabled>Added to cart<
                 <div class="clearfix">
                 </div>
               </div>
-              <h1 id="clothes">CLOTHES
+              <h1>CLOTHES
               </h1>
-              <div class="span_2">
+              <div  id="clothes" class="span_2">
                 <div class="col_1_of_single1 span_1_of_single1">
                   <img src="img/23.jpg" alt="Favre Leuba" class="img-responsive"/>
                   <h3>Luis Phil
@@ -184,9 +184,9 @@ echo '<a href="cart.php" class=btn btn-block btn-success disabled>Added to cart<
                 <div class="clearfix">
                 </div>
               </div>
-              <h1 id="watches">WATCHES
+              <h1>WATCHES
               </h1>
-              <div class="span_3">
+              <div  id="watches" class="span_3">
                 <div class="col_1_of_single1 span_1_of_single1">
                   <img src="img/titan201.jpg" alt="Titan 201" class="img-responsive"/>
                   <h3>Titan Model #101
