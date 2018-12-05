@@ -30,6 +30,6 @@ if($rows_fetched==0){
 $row=mysqli_fetch_array($user_authentication_result);
 $_SESSION['email']=$email;
 $_SESSION['id']=$row['id'];
-header('location: /.../products.php');
+header('location: products.php');
 }
 ?>
